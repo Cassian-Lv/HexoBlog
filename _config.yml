@@ -102,3 +102,9 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# hexo-admin authentification
+admin:
+  username: wangjialiang
+  password_hash: $2a$10$2PFbctFKsKhnSDxR1JPBUeOpT9lgjL3J4q1fJN3ISjfmQKRpV65pG
+  secret: my super secret phrase
